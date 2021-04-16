@@ -1,5 +1,3 @@
-# Fun Shortcuts
-
 ## Yale Courses
 
 * :white_check_mark: [Introduction to the Old Testament (Hebrew Bible) (RLST 145)](https://www.youtube.com/watch?v=mo-YL-lv3RY&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
@@ -9,7 +7,9 @@
 * :white_large_square: [Introduction to Political Philosophy (PLSC 114)](https://www.youtube.com/watch?v=xhm55mIdSuk&list=PL8D95DEA9B7DFE825)
 * :white_large_square: [Moral Foundations of Politics (PLSC 118)](https://www.youtube.com/watch?v=s6MOA_Y3MKE&list=PL2FD48CE33DFBEA7E)
 
+## Political Theory
 
+* [The Hannah Arendt Papers at the Library of Congress](http://memory.loc.gov/ammem/arendthtml/series.html)
 
 <!--
 
