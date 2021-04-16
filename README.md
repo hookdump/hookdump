@@ -5,8 +5,9 @@
 * :white_check_mark: [Introduction to the Old Testament (Hebrew Bible) (RLST 145)](https://www.youtube.com/watch?v=mo-YL-lv3RY&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
 * :white_check_mark: [Introduction to New Testament (RLST 152)](https://www.youtube.com/watch?v=dtQ2TS1CiDY&list=PLJJyc2gq_AG1pjTE4HMKse8HgyWIHzJj1)
 * :white_check_mark: [Death (PHIL 176)](https://www.youtube.com/watch?v=p2J7wSuFRl8&list=PLEA18FAF1AD9047B0)
-* [Epidemics in Western Society Since 1600 (HIST 234)](https://www.youtube.com/watch?v=UoWxdlGBVTI&list=PL3AE7B3B6917DE8E6)
-
+* :white_large_square: [Epidemics in Western Society Since 1600 (HIST 234)](https://www.youtube.com/watch?v=UoWxdlGBVTI&list=PL3AE7B3B6917DE8E6)
+* :white_large_square: [Introduction to Political Philosophy (PLSC 114)](https://www.youtube.com/watch?v=xhm55mIdSuk&list=PL8D95DEA9B7DFE825)
+* :white_large_square: [Moral Foundations of Politics (PLSC 118)](https://www.youtube.com/watch?v=s6MOA_Y3MKE&list=PL2FD48CE33DFBEA7E)
 
 
 
