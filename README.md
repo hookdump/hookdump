@@ -1,9 +1,19 @@
-## Favorite Tools
+## Fav Tools
 
 * [vim](https://www.vim.org/)
 * [mpv](https://github.com/mpv-player/mpv)
+* [rofi](https://github.com/davatorium/rofi)
 
-## Favorite Courses
+## Fav Hardware
+
+### Logitech G604
+![image](https://user-images.githubusercontent.com/395362/170582637-3cde4a4a-c69c-4349-ada1-b506e451a476.png)
+
+### LogitechG815 GL Tactile
+* ![image](https://user-images.githubusercontent.com/395362/170582584-d5cbb132-b879-4e0d-9764-a1f6c4fb3791.png)
+
+
+## Fav Courses
 
 * [x] [Introduction to the Old Testament (Hebrew Bible) (RLST 145)](https://www.youtube.com/watch?v=mo-YL-lv3RY&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
 * [x] [Introduction to New Testament (RLST 152)](https://www.youtube.com/watch?v=dtQ2TS1CiDY&list=PLJJyc2gq_AG1pjTE4HMKse8HgyWIHzJj1)
