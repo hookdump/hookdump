@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/395362/170582637-3cde4a4a-c69c-4349-ada1-b506e451a476.png" alt="image" width="200px">
 
 ### Logitech G815 (GL Tactile)
-* ![image](https://user-images.githubusercontent.com/395362/170582584-d5cbb132-b879-4e0d-9764-a1f6c4fb3791.png)
+<img src="https://user-images.githubusercontent.com/395362/170582584-d5cbb132-b879-4e0d-9764-a1f6c4fb3791.png" alt="image" width="400px">
 
 
 ## Fav Courses
