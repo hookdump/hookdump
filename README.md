@@ -7,8 +7,10 @@
 ## Fav Hardware
 
 ### Logitech G604
+<a href="https://www.logitech.com/assets/65839/g604-lightspeed-wireless-gaming-mouse-qsg.pdf">
 <img src="https://user-images.githubusercontent.com/395362/170582637-3cde4a4a-c69c-4349-ada1-b506e451a476.png" alt="image" width="200px">
-
+</a>
+  
 ### Logitech G815 (GL Tactile)
 <a href="https://www.logitech.com/assets/65841/g815-lightsync-rgb-mechanical-gaming-keyboard.pdf">
 <img src="https://user-images.githubusercontent.com/395362/170582584-d5cbb132-b879-4e0d-9764-a1f6c4fb3791.png" alt="image" width="400px">
