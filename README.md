@@ -1,6 +1,7 @@
 ## Fav Tools
 
-* [vim](https://www.vim.org/)
+* [neovim](https://neovim.io/) + [xclip](https://github.com/astrand/xclip)
+* [insomnia](https://insomnia.rest/)
 * [mpv](https://github.com/mpv-player/mpv)
 * [rofi](https://github.com/davatorium/rofi)
 
