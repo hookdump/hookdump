@@ -1,6 +1,6 @@
 ## Fav Tools
 
-* [neovim](https://neovim.io/) + [xclip](https://github.com/astrand/xclip) + [copilot](https://github.com/github/copilot.vim)
+* [neovim](https://neovim.io/) + [xclip](https://github.com/astrand/xclip) + [copilot](https://github.com/github/copilot.vim) + [whichkey](https://github.com/folke/which-key.nvim)
 * [mpv](https://github.com/mpv-player/mpv) + [https://github.com/hoyon/mpv-mpris](mpris)
 * [insomnia](https://insomnia.rest/)
 * [rofi](https://github.com/davatorium/rofi)
