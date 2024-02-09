@@ -1,7 +1,7 @@
 ## Fav Tools
 
 * [awesome wm](https://awesomewm.org/) + [neovim](https://neovim.io/) + [xclip](https://github.com/astrand/xclip) + [copilot](https://github.com/github/copilot.vim) + [whichkey](https://github.com/folke/which-key.nvim) + [ack](https://beyondgrep.com/)
-* [mpv](https://github.com/mpv-player/mpv) + [mpris](https://github.com/hoyon/mpv-mpris)
+* [mpv](https://github.com/mpv-player/mpv) + [mpris](https://github.com/hoyon/mpv-mpris) + [nnn](https://github.com/jarun/nnn)
 * [insomnia](https://insomnia.rest/)
 * [rofi](https://github.com/davatorium/rofi)
 
